@@ -4,7 +4,7 @@
 
 - [Kostenlose und ermäßigte Angebote im Land Berlin](https://daten.berlin.de/datensaetze/simple_search_wwwberlindesensozialessozialesicherungbnberlinticketsangebote)
 - [Meteostat](https://dev.meteostat.net/python/)
-- [Tourismus in Belrin](https://www.statistik-berlin-brandenburg.de/tourismus-berlin)
+- [Tourismus in Berlin](https://www.statistik-berlin-brandenburg.de/tourismus-berlin)
 - [Recyclingstätten](https://daten.berlin.de/datensaetze/simple_search_wwwberlindeumweltthemenabfallverschenkenstattwegwerfen)
 - [Berliner Feuerwehr - Einsätze](https://github.com/Berliner-Feuerwehr/BF-Open-Data/tree/main/Datasets/Mission_Data)
 - [Tourismus](https://www-genesis.destatis.de/datenbank/online/statistics/search/s/dG91cmlzbXVz)
