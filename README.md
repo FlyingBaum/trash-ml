@@ -1,5 +1,9 @@
 # BSR Trash Amounts Prediction
 
+## Description
+
+This project aims to predict the amount of trash that will be collected by the Berliner Stadtreinigung (BSR) in the future based on historical data. The data is provided by the BSR and contains the amount of trash collected in Berlin from 2019 to 2023.
+
 ### Data that might be relevant
 
 - [Kostenlose und ermäßigte Angebote im Land Berlin](https://daten.berlin.de/datensaetze/simple_search_wwwberlindesensozialessozialesicherungbnberlinticketsangebote)
