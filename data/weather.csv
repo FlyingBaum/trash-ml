@@ -1,4 +1,4 @@
-date,avg_temperature,avg_temperature_1d_before,avg_temperature_2d_before,avg_temperature_3d_before,precipitation,precipitation_1d_before,precipitation_2d_before,precipitation_3d_before,snow(mm)
+Date,avg_temperature,avg_temperature_1d_before,avg_temperature_2d_before,avg_temperature_3d_before,precipitation,precipitation_1d_before,precipitation_2d_before,precipitation_3d_before,snow(mm)
 01.01.2019,6.4,5.5,6.2,5.6,2.2,0.4,0.1,5.8,0.0
 02.01.2019,1.8,6.4,5.5,6.2,0.1,2.2,0.4,0.1,0.0
 03.01.2019,-0.4,1.8,6.4,5.5,0.0,0.1,2.2,0.4,0.0
