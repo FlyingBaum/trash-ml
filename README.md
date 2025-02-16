@@ -17,3 +17,4 @@ This project aims to predict the amount of trash that will be collected by the B
 - [Bruttoinlandsprodukt](https://de.statista.com/statistik/daten/studie/5010/umfrage/entwicklung-des-bruttoinlandsprodukts-von-berlin-seit-1970/)
 - [Foodsharing](https://foodsharing.de/karte)
 - [Zu- und Fortzüge](https://www.statistik-berlin-brandenburg.de/bevoelkerung/demografie/zu-und-fortzuege)
+- [Statistischer Bericht Bevölkerung in Berlin] (https://www.statistischebibliothek.de/mir/receive/BBSerie_mods_00000953)
